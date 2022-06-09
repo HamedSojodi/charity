@@ -8,6 +8,9 @@
       <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/accounts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charities/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/charities/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +118,9 @@
       <workItem from="1654417979317" duration="51000" />
       <workItem from="1654504107258" duration="804000" />
       <workItem from="1654508327355" duration="97000" />
-      <workItem from="1654508442989" duration="924000" />
+      <workItem from="1654508442989" duration="2102000" />
+      <workItem from="1654592680456" duration="4112000" />
+      <workItem from="1654679241054" duration="1514000" />
     </task>
     <task id="LOCAL-00001" summary="charti">
       <created>1654508690293</created>
@@ -124,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654508690293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="charti">
+      <created>1654590402999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654590402999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
