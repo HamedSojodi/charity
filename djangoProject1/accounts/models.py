@@ -13,5 +13,6 @@ class User(AbstractUser):
     age = models.PositiveSmallIntegerField(default=True)
     description = models.TextField(null=True, blank=True)
     last_login = models.DateTimeField(auto_now=True)
+    first_name = models.CharField(max_length=100)
 
 
