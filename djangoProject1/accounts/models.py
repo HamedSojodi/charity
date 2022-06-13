@@ -15,4 +15,13 @@ class User(AbstractUser):
     last_login = models.DateTimeField(auto_now=True)
     first_name = models.CharField(max_length=100)
 
+    @property
+    def is_benefactor(self):
+        return hasattr(self, 'benefactor')
+
+    @property
+    def is_charity(self):
+        return hasattr(self, 'charity')
+
+
 
